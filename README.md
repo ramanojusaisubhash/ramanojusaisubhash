@@ -22,6 +22,7 @@ Think of me as a builder:
 ---
 
 ### 🚀 My Tech Superpowers  
+Programming Languages : `java` ,`python`,`C` ,`C#` , `javascript`
 Frontend spells: `React.js`, `HTML`, `CSS`, `Bootstrap`, `Tailwind`  
 Backend powers: `Node.js`, `Express.js`, (learning some `.NET magic too ✨`)  
 Databases: `MongoDB`, `SQL`  
@@ -39,8 +40,8 @@ Secret weapons: Git, GitHub, REST APIs, Postman
 ### 🤝 Let’s Connect!  
 If you’ve made it this far, thank you 🙌  
 Let’s not just end here — feel free to reach out:  
-- 💼 [LinkedIn](https://www.linkedin.com/)  
-- 📧 Drop me a mail: **your.email@example.com**  
+- 💼 [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/ramanojusaisubhash))  
+- 📧 Drop me a mail: **ramanojusaisubhash@gmail.com**  
 
 ---
 
