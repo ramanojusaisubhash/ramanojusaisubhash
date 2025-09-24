@@ -92,11 +92,5 @@ I believe in a simple loop:
 So, what do you say — shall we build something amazing together? 🚀  
 
 ---
-### 🐍 Watch my contributions come alive
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ramanojusaisubhash&layout=compact" />
-</p>
-
----
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
