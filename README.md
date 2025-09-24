@@ -1,5 +1,9 @@
 # 👋 Hey there, welcome to my profile!  
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Hi+there!+I'm+Subhash;Full-Stack+Developer;Machine+Learning+Enthusiast;Always+Learning+New+Things)](https://git.io/typing-svg)
+
+![Profile Views](https://komarev.com/ghpvc/?username=ramanojusaisubhash&color=blueviolet&style=flat)  
+
 So glad you stopped by 🚀  
 Let me walk you through my journey — imagine this as a little story instead of a boring list of bullet points.  
 
@@ -22,11 +26,21 @@ Think of me as a builder:
 ---
 
 ### 🚀 My Tech Superpowers  
-Programming Languages : `java` ,`python`,`C` ,`C#` , `javascript`  
-Frontend spells: `React.js`, `HTML`, `CSS`, `Bootstrap`, `Tailwind`  
-Backend powers: `Node.js`, `Express.js`, (learning some `.NET magic too ✨`)  
-Databases: `MongoDB`, `SQL`  
-Secret weapons: Git, GitHub, REST APIs, Postman  
+**Programming Languages** : `Java`, `Python`, `C`, `C#`, `JavaScript`  
+**Frontend spells**: `React.js`, `HTML`, `CSS`, `Bootstrap`, `Tailwind`  
+**Backend powers**: `Node.js`, `Express.js`, (learning some `.NET magic too ✨`)  
+**Databases**: `MongoDB`, `SQL`  
+**Secret weapons**: Git, GitHub, REST APIs, Postman  
+
+---
+
+### 🏷️ Tech Badges  
+![Java](https://img.shields.io/badge/Code-Java-orange?logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Code-Python-blue?logo=python&logoColor=white)
+![React](https://img.shields.io/badge/Frontend-React-blue?logo=react)
+![Node.js](https://img.shields.io/badge/Backend-Node.js-green?logo=node.js)
+![MongoDB](https://img.shields.io/badge/Database-MongoDB-brightgreen?logo=mongodb)
+![.NET](https://img.shields.io/badge/Learning-.NET-purple?logo=dotnet&logoColor=white)
 
 ---
 
@@ -49,6 +63,13 @@ Secret weapons: Git, GitHub, REST APIs, Postman
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ramanojusaisubhash&theme=radical" alt="Activity Graph"/>
 </p>
 
+---
+
+### 📌 Featured Projects  
+- [CRUD App](https://github.com/ramanojusaisubhash/crud-app) 📝  
+- [Portfolio Website](https://github.com/ramanojusaisubhash/portfolio) 🌐  
+- [Quiz Maker](https://github.com/ramanojusaisubhash/quiz-maker) 🎯  
+- [Air Quality Forecasting](https://github.com/ramanojusaisubhash/air-quality-forecasting) 🌱  
 
 ---
 
@@ -66,3 +87,12 @@ I believe in a simple loop:
 **Code ➝ Learn ➝ Build ➝ Repeat.**  
 
 So, what do you say — shall we build something amazing together? 🚀  
+
+---
+
+### 🐍 Watch my contributions come alive  
+![Snake animation](https://github.com/ramanojusaisubhash/ramanojusaisubhash/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
