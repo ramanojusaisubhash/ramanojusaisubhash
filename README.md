@@ -69,9 +69,9 @@ Think of me as a builder:
 ---
 
 ### 📌 Featured Projects  
-- [CRUD App](https://github.com/ramanojusaisubhash/crud-app) 📝  
-- [Portfolio Website](https://github.com/ramanojusaisubhash/portfolio) 🌐  
-- [Quiz Maker](https://github.com/ramanojusaisubhash/quiz-maker) 🎯  
+- [CRUD App](https://github.com/ramanojusaisubhash/CRUD-APP) 📝  
+- [Portfolio Website](https://github.com/ramanojusaisubhash/Professional-Portfolio) 🌐  
+- [Quiz Maker](https://github.com/ramanojusaisubhash/quizmakerr) 🎯  
 - [Air Quality Forecasting](https://github.com/ramanojusaisubhash/air-quality-forecasting) 🌱  
 
 ---
