@@ -31,16 +31,16 @@ Secret weapons: Git, GitHub, REST APIs, Postman
 ---
 
 ### 📊 A Peek into My GitHub World  
-![Subhash's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)  
+![Subhash's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramanojusaisubhash&show_icons=true&theme=radical)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramanojusaisubhash&layout=compact&theme=radical)  
 
 ---
 
 ### 🤝 Let’s Connect!  
 If you’ve made it this far, thank you 🙌  
 Let’s not just end here — feel free to reach out:  
-- 💼 [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/ramanojusaisubhash))  
+- 💼 [LinkedIn](https://www.linkedin.com/in/ramanojusaisubhash))  
 - 📧 Drop me a mail: **ramanojusaisubhash@gmail.com**  
 
 ---
