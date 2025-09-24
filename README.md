@@ -1,6 +1,9 @@
 # 👋 Hey there, welcome to my profile!  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Hi+there!+I'm+Subhash;Full-Stack+Developer;Machine+Learning+Enthusiast;Always+Learning+New+Things)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20I'm%20Subhash!%20🚀&fontSize=40&animation=fadeIn&fontAlignY=35" />
+</p>
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ramanojusaisubhash&color=blueviolet&style=flat)  
 
