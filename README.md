@@ -31,12 +31,23 @@ Secret weapons: Git, GitHub, REST APIs, Postman
 ---
 
 ### 📊 A Peek into My GitHub World  
-![Subhash's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramanojusaisubhash&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramanojusaisubhash&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com?user=ramanojusaisubhash&theme=radical&hide_border=true) 
-![trophy](https://github-profile-trophy.vercel.app/?username=ramanojusaisubhash&theme=radical&no-frame=true&margin-w=5) 
-![Subhash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ramanojusaisubhash&theme=radical)
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ramanojusaisubhash&show_icons=true&theme=radical" alt="Subhash's GitHub stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramanojusaisubhash&layout=compact&theme=radical" alt="Top Langs" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramanojusaisubhash&theme=radical&hide_border=true" alt="GitHub Streak" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ramanojusaisubhash&theme=radical&no-frame=true&margin-w=5" alt="Trophies"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ramanojusaisubhash&theme=radical" alt="Activity Graph"/>
+</p>
 
 
 ---
@@ -44,7 +55,7 @@ Secret weapons: Git, GitHub, REST APIs, Postman
 ### 🤝 Let’s Connect!  
 If you’ve made it this far, thank you 🙌  
 Let’s not just end here — feel free to reach out:  
-- 💼 [LinkedIn](https://www.linkedin.com/in/ramanojusaisubhash))  
+- 💼 [LinkedIn](https://www.linkedin.com/in/ramanojusaisubhash)  
 - 📧 Drop me a mail: **ramanojusaisubhash@gmail.com**  
 
 ---
