@@ -23,7 +23,6 @@ Think of me as a builder:
 
 ### 🚀 My Tech Superpowers  
 Programming Languages : `java` ,`python`,`C` ,`C#` , `javascript`  
-
 Frontend spells: `React.js`, `HTML`, `CSS`, `Bootstrap`, `Tailwind`  
 Backend powers: `Node.js`, `Express.js`, (learning some `.NET magic too ✨`)  
 Databases: `MongoDB`, `SQL`  
