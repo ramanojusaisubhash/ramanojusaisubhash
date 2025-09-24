@@ -31,8 +31,7 @@ Secret weapons: Git, GitHub, REST APIs, Postman
 ---
 
 ### 📊 A Peek into My GitHub World  
-![Subhash's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramanojusaisubhash&show_icons=true&theme=radical)  
-
+![Subhash's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramanojusaisubhash&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramanojusaisubhash&layout=compact&theme=radical)  
 
 ---
