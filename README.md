@@ -33,6 +33,11 @@ Secret weapons: Git, GitHub, REST APIs, Postman
 ### 📊 A Peek into My GitHub World  
 ![Subhash's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramanojusaisubhash&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramanojusaisubhash&layout=compact&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com?user=ramanojusaisubhash&theme=radical&hide_border=true) 
+![trophy](https://github-profile-trophy.vercel.app/?username=ramanojusaisubhash&theme=radical&no-frame=true&margin-w=5) 
+![Subhash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ramanojusaisubhash&theme=radical)
+
+
 
 ---
 
