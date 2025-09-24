@@ -92,9 +92,10 @@ I believe in a simple loop:
 So, what do you say — shall we build something amazing together? 🚀  
 
 ---
-
-### 🐍 Watch my contributions come alive  
-![Snake animation](https://github.com/ramanojusaisubhash/ramanojusaisubhash/blob/output/github-contribution-grid-snake.svg)
+### 🐍 Watch my contributions come alive
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ramanojusaisubhash&layout=compact" />
+</p>
 
 ---
 
